@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amishanya
+- 👀 I’m interested in web-development
+- 🌱 I’m currently learning Python, SQL and I would to learn Django, JavaScript ans C++
+- 💞️ I’m looking to collaborate on backend development
+- 📫 You can write me in Telegram https://t.me/fil_Bedo
